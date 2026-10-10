@@ -25,11 +25,3 @@
 - **Custom software**: whatever you are missing, built by the same technical team.
 
 One technical team, with no sales layers between you and the people who build it.
-
-## Main projects
-
-| Repository | Description |
-| --- | --- |
-| [**dualunit-web**](https://github.com/DualUnit/dualunit-web) | Corporate website built with Next.js, TypeScript and Tailwind CSS, shipped with Docker. Sends contact form leads to the Odoo CRM. |
-| [**dualunit-odoo-docker**](https://github.com/DualUnit/dualunit-odoo-docker) | Odoo deployment based on [Doodba](https://github.com/Tecnativa/doodba): our back office and CRM. |
-| [**dualunit-analytics**](https://github.com/DualUnit/dualunit-analytics) | Self-hosted web analytics with [Umami](https://umami.is): cookieless, with all data on our own server. |
